@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/Square-logo-1-512.png
+    image: images/web_developer.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
