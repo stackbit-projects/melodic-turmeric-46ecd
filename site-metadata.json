@@ -6,7 +6,6 @@
     "base_font": "sans-serif",
     "header": {
         "title": "L H Witherspoon ",
-        "logo": "images/globe-and-sunburst-512.png",
         "logo_alt": "Alyvia logo",
         "has_primary_nav": true,
         "primary_nav_links": [
